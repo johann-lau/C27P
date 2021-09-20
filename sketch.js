@@ -40,7 +40,7 @@ function setup() {
   );
 
   board1 = new Board(width - 300, 330, 50, 200);
-  board2 = new Board(width - 550, height - 300, 50, 200);
+  board2 = new Board(width - 500, height - 700, 50, 200);
 }
 
 function draw() {
